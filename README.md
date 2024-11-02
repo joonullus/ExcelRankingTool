@@ -5,6 +5,9 @@ Change the input strings' values in the "ranking" function to edit the program t
 
 
 The format:
+
+
+
 ![gdsfgdfsgsdfgdsfgsd](https://github.com/user-attachments/assets/2f292467-9d4d-4ace-81df-5682c356463b)
 
 
